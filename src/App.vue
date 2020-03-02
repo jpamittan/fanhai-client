@@ -25,14 +25,14 @@
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <v-toolbar-title>Bogsoft</v-toolbar-title>
-      <v-text-field
+      <!-- <v-text-field
         class="ml-12"
         flat
         hide-details
         label="Search company"
         solo-inverted
         clearable
-      ></v-text-field>
+      ></v-text-field> -->
     </v-app-bar>
 
     <v-content>

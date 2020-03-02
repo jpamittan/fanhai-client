@@ -18,7 +18,7 @@ const routes = [
     component: Departments
   },
   {
-    path: "/company/:comp_id/department/:dept_id",
+    path: "/company/department/:dept_id",
     name: "Employees",
     component: Employees
   }
