@@ -1,5 +1,3 @@
-# bogsoft-client
-
 ## Project setup
 ```
 npm install
